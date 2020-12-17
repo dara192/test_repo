@@ -4,5 +4,8 @@
 
 "This is another test"
 
-And yet another testNew line AWS computer
+And yet another test
+New line AWS computer
 New line AWS computer again
+
+New line from rstudio server
